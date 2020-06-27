@@ -1,0 +1,89 @@
+html,body
+{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#title {
+  background-color: #efee9d;
+  font-family: "ubuntu";
+  color: #000;
+}
+
+
+#Qualifications {
+  background-color: #d1eaa3;
+  font-family: "ubuntu";
+  padding: 10% 0;
+}
+
+#Work_Experince {
+  background-color: #dbc6eb;
+  font-family: "ubuntu";
+  padding: 10% 0;
+}
+
+#Contact_Me {
+  background-color: #abc2e8;
+  padding: 2% 0 2% 0;
+  font-family: "ubuntu";
+
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 10% 0;
+}
+
+h3 {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
+  line-height: 2;
+}
+
+h5 {
+  font-weight: bold;
+  line-height: 2;
+}
+.pro {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 1.2rem;
+  font-weight: lighter;
+  line-height: 2;
+}
+
+.container-fluid {
+padding: 3% 15%;
+}
+
+.nav-link {
+  padding-left: 0;
+  font-size: 1rem;
+  color: black;
+}
+
+.nav-link:hover {
+  color: #f0a500;
+}
+
+.pic {
+  padding-top : 10%;
+  margin-left: 10%;
+  width:70%;
+  height:85%;
+}
+
+.cer {
+  padding-left: 5%;
+}
